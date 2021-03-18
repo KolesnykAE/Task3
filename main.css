@@ -1,0 +1,124 @@
+.Father {
+    width: 700px;
+    height: 500px;
+    background: silver;
+    margin: 0 auto; /*выровнять по центру*/
+   }
+
+.box {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.block-A {
+    background: aquamarine;
+    width: 100%;
+    height: 30%;
+}
+
+.both-BC {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.block-B {
+    background: darkorchid;
+    width: 70%;
+    height: 70%;
+}
+
+.block-30per {
+    background: yellow;
+    width: 30%;
+    height: 70%;
+}
+
+.indent {
+    margin-top: 90px;
+}
+
+.second-block {
+    width: 100%;
+    height: 70%;
+    display: flex;
+}
+
+.third-block {
+    width: 70%;
+    height: 100%;
+}
+
+.block-middle {
+    background: fuchsia;
+    width: 30%;
+    height: 100%;
+}
+
+.block-B1 {
+    background: green;
+    width: 100%;
+    height: 50%;
+}
+
+.block-CDE {
+    display: flex;
+    height: 50%
+}
+
+.block-C1 {
+    width: 33.333%;
+    background: tomato;
+}
+
+.block-D {
+    width: 33.333%;
+    background: #2b2bdd ;
+}
+
+.block-E {
+    width: 33.333%;
+    background: yellow;
+}
+
+.little-block {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block33perB {
+    width: 33.333%;
+    height: 50%;
+    background: brown;
+}
+
+.block33perC {
+    width: 33.333%;
+    height: 50%;
+    background: darkcyan;
+}
+
+.block33perD {
+    width: 33.333%;
+    height: 50%;
+    background: thistle;
+}
+
+.block33perE {
+    width: 33.333%;
+    height: 50%;
+    background: chartreuse;
+}
+
+.block33perF {
+    width: 33.333%;
+    height: 50%;
+    background: white;
+}
+
+.block33perG {
+    width: 33.333%;
+    height: 50%;
+    background: darkgoldenrod;
+}
